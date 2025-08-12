@@ -1,4 +1,4 @@
-<img width="1564" height="807" alt="Screenshot 2025-08-12 233152" src="https://github.com/user-attachments/assets/e7a53df2-9fcc-49f3-b870-a44d2414b82a" /># WavePaint
+<img width="1564" height="807" alt="Screenshot 2025-08-12 233152" src="https://github.com/user-attachments/assets/e7a53df2-9fcc-49f3-b870-a44d2414b82a" /># on-screen-painter
 
 An interactive AI-powered drawing application built with OpenCV and Mediapipe that lets you paint in mid-air using just your hand gestures — no physical tools needed!
 
